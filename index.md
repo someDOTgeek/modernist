@@ -2,5 +2,9 @@
 layout: default
 ---
 
-## Social
-- [/webring/](/webring/)
+## Stuff
+- [Webring](/ring/)
+- [Startpage](/start/)
+- [Forum](#) (coming soon) (maybe)
+
+<div style="text-align:center">Maintained by <a href="/lucas">Luqaska</a></div>
