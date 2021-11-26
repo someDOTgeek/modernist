@@ -6,6 +6,6 @@ layout: default
 - [Webring](/ring)
 - [Startpage](/start)
 - [Wiki](/wiki)
-- [Forum](#) (coming soon) (maybe)
+- [BBS](http://bbs.some.geek) (coming soon) (maybe)
 
-<div style="text-align:center">Maintained by <a href="/lucas">Luqaska</a></div>
+<div style="text-align:center">Maintained by <a href="http://lucas.geek">Luqaska</a></div>
