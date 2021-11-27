@@ -4,7 +4,7 @@ layout: default
 
 ## Stuff
 - [Webring](/ring)
-- [Startpage](/start) (coming soon)
+- [Startpage](/start)
 - [Wiki](/wiki)
 - [BBS](http://bbs.some.geek)
 
