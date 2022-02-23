@@ -4,8 +4,8 @@ layout: default
 
 ## Stuff
 - [Webring](/ring)
-- [PointCanvas (indev)](http://pointcanvas.some.geek) (It is like a basic Paint app, but you stream the changes you do to other random users)
-- [““BBS””](http://bbs.some.geek) <= A very shitty way to talk
+- [PointCanvas](http://pointcanvas.some.geek) (It is like a basic Paint app, but you stream the changes you do to other random users)
+- [““Forum””](http://forum.geek.oss) <= A very shitty way to talk
 - [Radio.Reddium.oss](http://radio.reddium.oss) <= Pandora, but it's Reddit
 - [welcome•geek](http://welcome.geek.oss) <= Wiki made to guide you throught the OpenNIC network
 
